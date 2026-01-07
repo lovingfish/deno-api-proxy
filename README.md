@@ -1,5 +1,8 @@
 # API Proxy
 
+
+来自 https://linux.do/t/topic/554346/602 作为备份
+
 API 代理转发服务，支持部署到 Deno Deploy 或 Supabase Edge Functions。
 
 ## 支持的代理
